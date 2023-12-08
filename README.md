@@ -32,7 +32,7 @@ pip install pandas scikit-learn xgboost jupyter
 To start working with the project, clone the repository to your local machine using:
 
 ```bash
-git clone [Repository URL]
+git clone https://github.com/lumenalux/drone-rf-signal-classification-2023.git
 ```
 
 To extract features from the raw signal data, run the `extracted-features.ipynb` notebook.
