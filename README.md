@@ -27,7 +27,7 @@ You can install the dependencies with the following command:
 pip install pandas scikit-learn xgboost jupyter
 ```
 
-##Usage
+## Usage
 
 To start working with the project, clone the repository to your local machine using:
 
